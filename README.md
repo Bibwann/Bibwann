@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bastin</h1>
+<h1 align="center">Hi 👋, I'm Bastien</h1>
 <h3 align="center">French junior developper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibwann&label=Profile%20views&color=0e75b6&style=flat" alt="bibwann" /> </p>
