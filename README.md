@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bastien</h1>
-<h3 align="center">French junior developper</h3>
+<h3 align="center">French IUT junior developer alternant</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibwann&label=Profile%20views&color=0e75b6&style=flat" alt="bibwann" /> </p>
 
@@ -7,7 +7,7 @@
 
 - I’m currently working on **Project RPG**
 
-- I’m currently learning **Symfony / Android**
+- I’m currently learning **IUT program and Symfony**
 
 - How to reach me **bastien.one04@gmail.com**
 
